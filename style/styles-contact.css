@@ -1,0 +1,367 @@
+*{ 
+    box-sizing: border-box;
+}
+@media all and (max-width: 1690px){
+    .box1 {
+        width: 800px;
+        height: auto;
+        position: relative;right: -200px;
+    }
+    .box2,h1 {
+        position:relative;right: 500px;top: 90px;
+        font-size: 50px;
+    }
+    .box3,h2{
+        position: relative;right: 1160px;top: 380px;
+        font-size: 20px;
+    }
+    .box4 {
+        position: relative;top:170px;right: 40px;
+    }
+    .box5 {
+        width: 200px;
+        position:relative;right:1030px;top: 350px;
+    }
+    .box6,.bottom-prg{
+        position: relative;right:850px ;top: 80px;
+    }
+    .box7,.bottom-prg1{
+        position: relative;right:1050px ;top: 180px;
+
+    }
+    .box8,.bottom-prg2{
+        position: relative;right:1260px ;top: 280px;
+
+    }
+    .box9,ol{
+        font-size: 15px;
+        position: relative;top:290px;
+   
+    }
+    .box10,.freccia{
+        position: relative;right: 600px;top: 600px;
+
+    }
+    .box11,.email{
+        font-size: 15px;
+        width: 200px;
+        position: relative;top: 200px;
+       
+    }
+    .box12,.btn,.btn1{
+        position: relative;right: 350px;top: 200px;
+    }
+    .box13,textarea {
+        position: relative;right: 4px;top: 200px;
+    }
+}
+@media all and (max-width: 1280px) { 
+    .box1 {
+        width: 800px;
+        height: auto;
+        position: relative;right: -200px;
+    }
+    .box2,h1 {
+        position:relative;right: 500px;top: 90px;
+        font-size: 50px;
+    }
+    .box3,h2{
+        position: relative;right: 1160px;top: 380px;
+        font-size: 20px;
+    }
+    .box4 {
+        position: relative;top:170px;right: 40px;
+    }
+    .box5 {
+        width: 200px;
+        position:relative;right:1030px;top: 350px;
+    }
+    .box6,.bottom-prg{
+        position: relative;right:850px ;top: 80px;
+    }
+    .box7,.bottom-prg1{
+        position: relative;right:1050px ;top: 180px;
+
+    }
+    .box8,.bottom-prg2{
+        position: relative;right:1260px ;top: 280px;
+
+    }
+    .box9,ol{
+        font-size: 15px;
+        position: relative;top:290px;
+   
+    }
+    .box10,.freccia{
+        position: relative;right: 600px;top: 600px;
+
+    }
+    .box11,.email{
+        font-size: 15px;
+        width: 200px;
+        position: relative;top: 200px;
+       
+    }
+    .box12,.btn,.btn1{
+        position: relative;right: 350px;top: 200px;
+    }
+    .box13,textarea {
+        position: relative;right: 4px;top: 200px;
+    }
+
+}
+@media all and (max-width: 980px) {
+    .box1 {
+        width: 800px;
+        height: auto;
+    }
+    .box2,h1 {
+        position:relative;right: 480px;top: 90px;
+        font-size: 30px;
+    }
+    .box3,h2{
+        position: relative;right: 1160px;top: 380px;
+        font-size: 20px;
+    }
+    .box4 {
+        position: relative;top:170px;right: 40px;
+    }
+    .box5 {
+        width: 200px;
+        position:relative;right:1030px;top: 350px;
+    }
+    .box6,.bottom-prg{
+        position: relative;right:850px ;top: 80px;
+    }
+    .box7,.bottom-prg1{
+        position: relative;right:1050px ;top: 180px;
+
+    }
+    .box8,.bottom-prg2{
+        position: relative;right:1260px ;top: 280px;
+
+    }
+    .box9,ol{
+        font-size: 15px;
+        position: relative;top:290px;
+   
+    }
+    .box10,.freccia{
+        position: relative;right: 600px;top: 600px;
+
+    }
+    .box11,.email{
+        font-size: 15px;
+        width: 200px;
+        position: relative;top: 200px;
+       
+    }
+    .box12,.btn,.btn1{
+        position: relative;right: 350px;top: 200px;
+    }
+    .box13,textarea {
+        position: relative;right: 4px;top: 200px;
+    }
+
+}
+@media all and (max-width: 736px) {
+    .box1 .img{
+        width: 200px; 
+        height: auto;
+    }
+    .box2,h1 {
+        position:relative;right: 680px;top: 50px;
+        font-size: 30px;
+    }
+    .box3,h2{
+        position: relative;right: 1100px;top: 340px;
+        font-size: 15px;
+    }
+    .box4 {
+        position: relative;top:140px;right: 40px;
+    }
+    .box5 {
+        width: 200px;
+        position:relative;right:1030px;top: 350px;
+    }
+    .box6,.bottom-prg{
+        position: relative;right:850px ;top: 80px;
+    }
+    .box7,.bottom-prg1{
+        position: relative;right:1050px ;top: 180px;
+
+    }
+    .box8,.bottom-prg2{
+        position: relative;right:1260px ;top: 280px;
+
+    }
+    .box9,ol{
+        font-size: 15px;
+        position: relative;top:290px;
+   
+    }
+    .box10,.freccia{
+        position: relative;right: 600px;top: 600px;
+
+    }
+    .box11,.email{
+        font-size: 15px;
+        width: 200px;
+        position: relative;top: 200px;
+       
+    }
+    .box12,.btn,.btn1{
+        position: relative;right: 350px;top: 200px;
+    }
+    .box13,textarea {
+        position: relative;right: 4px;top: 200px;
+    }
+
+}
+@media screen and (max-width: 480px) {
+    .box1,.favicon{
+        width: 200px; 
+        height: auto;
+        position: relative;right: -5px;
+    }
+    .box2,h1 {
+        position:relative;right: 680px;top: 50px;
+        font-size: 30px;
+    }
+    .box3,h2{
+        position: relative;right: 1100px;top: 340px;
+        font-size: 15px;
+    }
+    .box4 {
+        position: relative;top:140px;right: 40px;
+    }
+    .box5 {
+        width: 200px;
+        position:relative;right:1030px;top: 350px;
+    }
+    .box6,.bottom-prg{
+        position: relative;right:850px ;top: 80px;
+    }
+    .box7,.bottom-prg1{
+        position: relative;right:1050px ;top: 180px;
+
+    }
+    .box8,.bottom-prg2{
+        position: relative;right:1260px ;top: 280px;
+
+    }
+    .box9,ol{
+        font-size: 15px;
+        position: relative;top:290px;
+   
+    }
+    .box10,.freccia{
+        position: relative;right: 600px;top: 600px;
+
+    }
+    .box11,.email{
+        font-size: 15px;
+        width: 200px;
+        position: relative;top: 200px;
+       
+    }
+    .box12,.btn,.btn1{
+        position: relative;right: 350px;top: 200px;
+    }
+    .box13,textarea {
+        position: relative;right: 4px;top: 200px;
+    }
+
+}
+.container {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 768px;
+    margin: 0 auto;
+}
+.favicon {
+    position: relative;top:150px;
+}
+.box2{
+    color: white;
+    font-size: 40px;
+    position: relative;right: -800px;top: -450px;
+}
+.box3{
+    position: relative;top: -300px;right: -1200px;
+    color: white;
+    font-size: 28px;
+    font-style: unset;
+    text-decoration-line: underline; 
+    display: flex;
+}
+.menu {
+    font-size: 20PX;
+}
+.future {
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px;
+    border-color: white;
+    border-style:inset;
+    position: relative;right: -80px;top: -700px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top-left-radius: 8px;
+}
+.progetti{
+    position: relative;right: -1040px;top: -300px;
+}
+.bottom-prg{
+    position: relative;right: -430px;top: -25px;
+}
+.bottom-prg1{
+    position: relative;right: -630px;top: -50px;
+}
+.bottom-prg2{
+    position: relative;right: -840px;top: -76px;
+}
+.box9 {
+    color: white;
+    position: relative;right: -10px;top: -300px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box9,ol{
+    list-style:circle ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.freccia{
+    position: relative;right: -800px;top: -600px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+ }
+.email {
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;top:-230px;left: 30px;
+    font-size: 25px;
+}
+.btn{
+    font-size: 18px;
+    border-bottom: 30px;
+    border-bottom-width: 10px;
+    border-bottom-style:none;
+    position: relative;top:-255px;right: -570px;
+}
+.btn1{
+    font-size: 18PX;
+    border-bottom: 20px;
+    border-bottom-width: 10px;
+    border-bottom-style:none;
+    position: relative;top:-280px;right: -650px;
+}
+.invio {
+    position: relative;top:-290px;right: -230px;
+}
+textarea {
+    height: 100px;
+    width: 300px;
+    position: relative;right: -50px;top: -260px;
+}
