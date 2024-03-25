@@ -154,7 +154,7 @@
     position: relative;right: -205px;
   }
   .box6,.nav{
-    position: relative;top: -690px;right: 40px;
+    position: relative;top: -548px;right: 40px;
   }
   .box7,p{
     text-align:center;
@@ -206,7 +206,7 @@
   border-top-left-radius: 8px;
 }
 .box6,.nav{
-  position: relative;top: -690px;right: 40px;
+  position: relative;top: -548px;right: 40px;
 }
 ul{
   list-style-type: none;
