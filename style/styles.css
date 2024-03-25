@@ -139,7 +139,7 @@
   }
   .box2,h1{
     font-size: 36px;
-    position: relative;right:595px;top: 20px;
+    position: relative;right:595px;top: 30px;
 
   }
   .box3,h2{
@@ -151,7 +151,7 @@
     font-size: 25px;
   }
   .box5{
-    position: relative;top: 124px;right: 25px;
+    position: relative;top: 124px;right: 35px;
   }
   .box6{
     position: relative;top: -140px;
