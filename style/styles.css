@@ -151,8 +151,10 @@
     font-size: 25px;
   }
   .box5{
-    position: relative;right: 34px;
-    
+    position: relative;right: -205px;
+  }
+  .box6,.nav{
+    position: relative;top: -600px;right: 40px;
   }
   .box7,p{
     text-align:center;
