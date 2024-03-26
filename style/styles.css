@@ -139,27 +139,27 @@
   }
   .box2,h1{
     font-size: 36px;
-    position: relative;right:685px;top: 30px;
+    position: relative;right:-825px;top: -348px;
 
   }
   .box3,h2{
     font-size: 15px;
-    position: relative;right: 255px;top: 355px;
+    position: relative;right: -351px;top:-346px;
   }
   .box4,h3{
     position: relative;top: 330px;right: -1px;
     font-size: 25px;
   }
   .box5{
-    position: relative;right: 75px;
+    position: relative;right:-120px;
   }
   .box6,.nav{
-    position: relative;top: -548px;right: 40px;
+    position: relative;top: -929px;right: 45px;
   }
   .box7,p{
     text-align:center;
     font-size: 10,5px;
-    position: relative;top:390px;right: 180px;
+    position: relative;top:-200px;right:-821px;
 
   }
   .box8,ul{
